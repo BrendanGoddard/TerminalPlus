@@ -1,5 +1,3 @@
-# Terminal-
-C++ and AI Terminal Wrapper, allows for low level commands like netstat, mkdir, cd, and others to be translated into a simple language, than executed for the user
+The C++ and AI Terminal Wrapper is an intelligent command-line assistant that transforms traditional low-level terminal operations into simple, natural-language instructions. Instead of manually typing system commands like netstat, mkdir, or cd, users can describe what they want to do in plain English — and the wrapper interprets and executes the appropriate C++ system calls under the hood.
 
-
-The goal of this tool, is to create a fast and fun way to use your terminal for low level tasks, like creating directories, checking whats hosted on a port, 
+This tool aims to make terminal usage faster, more intuitive, and more interactive, bridging the gap between natural language and system-level functionality. It’s designed for both learning and productivity — giving developers, students, and AI enthusiasts a smarter way to handle directory management, network diagnostics, and other core terminal tasks.
